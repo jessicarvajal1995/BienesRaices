@@ -1,0 +1,23 @@
+- NOTAS PERSONALES DURANTE EL CURSO -
+
+1. Para que una pagina redireccione y abra en una pesta�a nueva.
+  
+   comando: target="_blank" 
+   ejemplo: <a target="_blank" href="Nosotros.html">Nosotros</a>
+
+2. Display: Inline-block 
+    se puede aplicar margin y anchos, 
+3. margin-bottom: 2rem;  = SEPARACION HACIA AFUERA
+
+4. PADDING = SEPARACION HACIA ADENTRO
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
